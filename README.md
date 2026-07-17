@@ -7,7 +7,7 @@
 **Monikra1n Tool** is an all-in-one Windows utility that provides a modern, user-friendly interface for the **checkra1n** jailbreak while offering quick access to **iFrpfile** tools.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/badge/Version-0.12.4-green.svg)
+![Version](https://img.shields.io/badge/Version-2.5.0-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 ---
@@ -36,26 +36,12 @@
 
 # 🛠 Installation
 
-Make sure **Python 3.10+** is installed on your computer.
+## Download the latest release
 
-## Clone the repository
-
-```bash
-git clone https://github.com/Monikra1nTeam/Monikra1n.git
-cd Monikra1n
-```
-
-## Install dependencies
-
-```bash
-pip install customtkinter pillow
-```
-
-## Run the application
-
-```bash
-python monikra1n.py
-```
+1. Go to the **Releases** section of this repository.
+2. Download the latest version of **Monikra1n Tool**.
+3. Extract the downloaded archive (if applicable).
+4. Run **Monikra1n.exe** as Administrator.
 
 ---
 
@@ -86,7 +72,6 @@ python monikra1n.py
 # 📋 Requirements
 
 - Windows 10 / Windows 11
-- Python 3.10 or newer
 - Internet connection
 - Administrator privileges
 - USB flash drive (8 GB or larger recommended)
