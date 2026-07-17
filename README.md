@@ -7,7 +7,7 @@
 **Monikra1n Tool** is an all-in-one Windows utility that provides a modern, user-friendly interface for the **checkra1n** jailbreak while offering quick access to **iFrpfile** tools.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/badge/Version-2.5.0-green.svg)
+![Version](https://img.shields.io/badge/Version-0.12.4-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 ---
