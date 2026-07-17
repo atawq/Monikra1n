@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Monikra1n Tool - Checkra1n MacOS UI Edition + Fixed Engine
+Monikra1n Tool
 ===================================================
 Author: Monikra1n Team
-Version: 2.5.0 (Final Fix)
+Version: 0.12.4
 """
 
 import os
@@ -44,8 +44,8 @@ class Monikra1nApp(ctk.CTk):
         screen_height = self.winfo_screenheight()
         self.geometry(f"640x460+{(screen_width-640)//2}+{(screen_height-460)//2}")
 
-        self.iso_url = "https://www.dropbox.com/scl/fi/xmw7miyu04k5sqw0a1lsi/checkra1n-0.10.2-windows-justatech.iso?rlkey=tbf487jmap5t5aft0ka9hliz6&st=y5mn4msh&dl=1"
-        self.ifr_url = "https://www.dropbox.com/scl/fi/c0m5i2c2w92wxiqoz0crs/iFrpfile.zip?rlkey=4eedmuj60blncll751r3f0xy3&st=21wv2kcy&dl=1"
+        self.iso_url = "YOUR_ISO_URL"
+        self.ifr_url = "YOUR_IFRPFILE_DOWNLOAD_URL"
         self.logo_url = "https://preview.redd.it/question-does-anyone-have-deb-for-the-checkra1n-bootlogo-by-v0-tdprve9fvvf81.jpg?auto=webp&s=6341f8688642859231ef9c018f9693f24793089e"
         
         self.temp_dir = os.environ.get("TEMP", ".")
